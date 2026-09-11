@@ -1,0 +1,26 @@
+{
+	"node": "n8n-nodes-roistat.roistatTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Analytics", "Marketing & Content"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/zenland-dev/n8n-nodes-roistat?tab=readme-ov-file#roistat-trigger"
+			}
+		]
+	},
+	"alias": [
+		"Roistat",
+		"Ройстат",
+		"Webhook",
+		"Вебхук",
+		"Trigger",
+		"Call",
+		"Звонок",
+		"Calltracking",
+		"Коллтрекинг",
+		"Пропущенный звонок",
+		"Missed Call"
+	]
+}
