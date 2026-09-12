@@ -27,12 +27,12 @@ SOFTWARE.
 The MIT grant above covers this package's own code and documentation. It does
 not, and cannot, grant any right in third-party trademarks.
 
-"GetCourse" and the GetCourse logo are trademarks of their owner. The mark is
-reproduced in `icons/getcourse.svg` and `icons/getcourse.dark.svg` solely to
-identify which service these nodes connect to — nominative use — and its
-inclusion is not a claim of ownership, nor an endorsement, sponsorship or
-affiliation. This package is an independent integration and is not produced,
-endorsed or supported by GetCourse.
+"Roistat" and the Roistat logo are trademarks of their owner. The mark is
+reproduced in `icons/roistat.svg` and `icons/roistat.dark.svg` solely to identify
+which service these nodes connect to — nominative use — and its inclusion is not
+a claim of ownership, nor an endorsement, sponsorship or affiliation. This package
+is an independent integration and is not produced, endorsed or supported by
+Roistat.
 
 Nothing in the MIT licence sublicenses that mark. Anyone redistributing or
 modifying this package remains subject to the trademark owner's own terms.

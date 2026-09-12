@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.1 — 2026-09-12
+
+Licence and issue-template fix, no code change.
+
+0.1.0 shipped with the trademark section of `LICENSE.md` naming GetCourse rather than
+Roistat, and both issue forms asking which GetCourse API the reporter had used. The
+files had been copied from our own GetCourse package and never rewritten. The notice
+now covers the Roistat mark this package actually reproduces in its icons, and the
+forms ask for the resource, the node and the `description` field Roistat puts the real
+error in.
+
+Nothing in `dist` differs from 0.1.0. Upgrading is only worth it for the licence text.
+
 ## 0.1.0 — 2026-09-10
 
 First release. 46 operations across 11 resources of the Roistat REST API v1, plus a webhook

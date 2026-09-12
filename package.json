@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-roistat",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Roistat nodes for n8n: analytics reports, deals, clients, calls, costs and a webhook trigger",
 	"keywords": [
 		"n8n-community-node-package",

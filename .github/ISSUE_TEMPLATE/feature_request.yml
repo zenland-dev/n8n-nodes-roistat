@@ -13,13 +13,17 @@ body:
   - type: input
     id: endpoint
     attributes:
-      label: The GetCourse endpoint, if you know it
-      placeholder: "GET /pl/api/v1/deals/{id}"
+      label: The Roistat method, if you know it
+      placeholder: "POST /project/analytics/data"
 
   - type: textarea
     id: docs
     attributes:
       label: Where it is documented
       description: >
-        A link to the Tech API redoc page or to help/api — GetCourse documents the two
-        APIs in different places, and they do not overlap.
+        A link to help-en.roistat.com. Several sections exist only in the Russian original
+        at help-ru.roistat.com, and a few of those are reachable only through the Wayback
+        Machine, so a quote from the page helps when the link does not open.
+        Speech analytics, the virtual PBX, media plans, emailtracking, the lead catcher,
+        managers, billing, SMS reports and project indicators are not covered yet — say
+        what you need and it can be added.
